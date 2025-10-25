@@ -1,10 +1,10 @@
-  AppVersion = 78813
+  AppVersion = 82400
   FileVersion = 2
 [GENERAL]
   aATEModuleSel[24] = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
   ConnectMode = 0
-  CurrentFile = ""
-  DataFileSAddr = 0x00000000
+  CurrentFile = "C:\GitProjects\vesc-fw\build\FOC_KING\FOC_KING.bin"
+  DataFileSAddr = 0x08000000
   GUIMode = 0
   HostName = ""
   TargetIF = 1
